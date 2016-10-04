@@ -18,9 +18,12 @@
   "homepage": "https://github.com/crewguru/crewguru-web#readme",
   "devDependencies": {
     "bower": "^1.7.9",
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.1.0",
+    "gulp-util": "^3.0.7"
   },
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "main-bower-files": "^2.13.1"
   }
 }
