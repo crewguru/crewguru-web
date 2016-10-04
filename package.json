@@ -1,0 +1,26 @@
+{
+  "name": "crewguru-web",
+  "version": "0.1.0",
+  "description": "Web application for CrewGuru.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/crewguru/crewguru-web.git"
+  },
+  "author": "Brent Bonet/Wyoming Telford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crewguru/crewguru-web/issues"
+  },
+  "homepage": "https://github.com/crewguru/crewguru-web#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

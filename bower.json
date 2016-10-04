@@ -1,0 +1,26 @@
+{
+  "name": "crewguru-web",
+  "description": "Web application for CrewGuru.com",
+  "main": "index.js",
+  "authors": [
+    "Brent Bonet/Wyoming Telford"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/crewguru/crewguru-web",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "modernizr": "^3.3.1",
+    "bootstrap": "^3.3.7",
+    "placeholders": "^4.0.1",
+    "jquery": "^3.1.1",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
